@@ -8,7 +8,7 @@ This project is designed as a **progressive learning journey**, ideal for beginn
 
     ## 🚧 Project Structure
 
-    cli-calculator-suite/
+```cli-calculator-suite/
 ├── python/
 │ ├── simple_calculator.py # Basic version in Python
 │ ├── advanced_calculator.py # Advanced version: loop, eval, GUI, test
@@ -23,7 +23,7 @@ This project is designed as a **progressive learning journey**, ideal for beginn
 │
 ├── LICENSE
 ├── .gitignore
-└── README.md # General overview of the entire project
+└── README.md # General overview of the entire project ```
 
 
 
