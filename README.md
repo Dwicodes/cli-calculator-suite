@@ -10,20 +10,20 @@ This project is designed as a **progressive learning journey**, ideal for beginn
 
     cli-calculator-suite/
 ├── python/
-│   ├── simple_calculator.py          # Basic version in Python
-│   ├── advanced_calculator.py        # Advanced version: loop, eval, GUI, test
-│   ├── test_calculator.py            # Python unit tests
-│   ├── gui_calculator.py             # Optional: GUI separated
-│   └── README.md                     # Python-specific instructions
+│ ├── simple_calculator.py # Basic version in Python
+│ ├── advanced_calculator.py # Advanced version: loop, eval, GUI, test
+│ ├── test_calculator.py # Python unit tests
+│ ├── gui_calculator.py # Optional: GUI separated
+│ └── README.md # Python-specific instructions
 │
 ├── c/
-│   ├── simple_calculator.c           # Basic version in C
-│   ├── advanced_calculator.c         # Advanced C version (loop, %, ^)
-│   └── README.md                     # C-specific instructions
+│ ├── simple_calculator.c # Basic version in C
+│ ├── advanced_calculator.c # Advanced C version (loop, %, ^)
+│ └── README.md # C-specific instructions
 │
 ├── LICENSE
 ├── .gitignore
-└── README.md                         # General overview of the entire project
+└── README.md # General overview of the entire project
 
 
 
